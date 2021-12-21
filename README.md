@@ -1,4 +1,4 @@
-# EnterYourCode
+# ARITHMETIC CALCULATOR
 This is a public repository
 Program for arithmetic calculator
 Operations include addition,subtraction,multiplication,division
